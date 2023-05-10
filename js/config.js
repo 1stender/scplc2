@@ -116,6 +116,8 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
     {ogg: "scplc.ogg", name: "The Final Flash of Existence"},
+	{ogg: "scplc1.ogg", name: "Alpha Detonate"},
+	{ogg: "scplc2.ogg", name: "Breach"},
 ];
 
 // Random music order?
