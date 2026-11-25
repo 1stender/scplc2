@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "ПИПС [SCP:Lost Control]";
+var l_serverName = "ПИПС / SCP:Lost Control";
 
 // Use a video for the background?
 // Otherwise it will use images
